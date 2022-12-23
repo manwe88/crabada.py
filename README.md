@@ -7,7 +7,11 @@ Specialized and automatized bot to interact with [Crabada](https://play.crabada.
 ```
 git clone https://github.com/ykoksal/crabada.py.git
 ```
-3. Fill userAddress in Dockerfile and run the code below:
+3. Build the docker image:
+```
+docker build -t ykoksal/crabada.py .
+```
+4. Fill userAddress in Dockerfile and run the code below:
 ```
 docker run  --env-file .env ykoksal/crabada.py
 ```
