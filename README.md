@@ -1,4 +1,4 @@
-Specialized and automatized bot to interact with [Crabada](https://play.crabada.com)'s smart contracts based on [coccoinomane](https://github.com/coccoinomane/crabada.py)'s bot.
+Specialized and automatized bot developed with Python to interact with [Crabada](https://play.crabada.com)'s smart contracts based on [coccoinomane](https://github.com/coccoinomane/crabada.py)'s base code.
 
 # Quick Deploy and Run with Docker
 
